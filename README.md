@@ -6,3 +6,7 @@ Ce dépôt contient l’implémentation en Java de plusieurs algorithmes de rech
 	•	Insertion Sort
 	•	Quick Sort
 	•	Merge Sort
+
+Objectif
+
+Comprendre et comparer différents algorithmes classiques de recherche et de tri.
