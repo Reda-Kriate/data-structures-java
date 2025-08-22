@@ -1,7 +1,6 @@
 Ce dépôt contient l’implémentation en Java de plusieurs algorithmes de recherche et de tri :
 
 	•	Linear Search
- 
 	•	Binary Search
 	•	Bubble Sort
 	•	Selection Sort
